@@ -1,0 +1,4 @@
+{
+  "peargo": "KURUCU",
+  "elik": "KURUCU"
+}
