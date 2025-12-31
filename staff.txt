@@ -1,4 +1,4 @@
 {
   "peargo": "KURUCU",
-  "elik": "KURUCU"
+  "Eld Eld": "KURUCU"
 }
